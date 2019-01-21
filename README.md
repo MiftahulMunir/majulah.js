@@ -1,0 +1,2 @@
+# majulah.js
+majulah
